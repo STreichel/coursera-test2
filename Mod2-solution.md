@@ -1,9 +1,9 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<title>Sweet!</title>
+	<title>Mod2-solution</title>
 </head>
 <body>
-
+<h1>Sweet!<h1>
 </body>
 </html>
