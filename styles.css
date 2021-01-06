@@ -1,8 +1,21 @@
 h1 {
 	color: red;
 }
-#p1 {
+div {
 	background-color: gray;
 	text-decoration-color: blue
-	
+}
+p {
+	width: 50px;
+	height: 50px;
+	border: 1px solid black;
+}
+#p1 {
+	background-color:green;
+}
+#p2 {
+	background-color:orange;
+}
+#p3 {
+	background-color:yellow;
 }
