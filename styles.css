@@ -14,6 +14,10 @@ h2{
 	margin-top:0;
 }
 
+h3{
+	font-size:20px;
+	margin-top: 12%;
+}
 div{
 	height: 200px;
 	width: 440px;
@@ -28,8 +32,6 @@ div{
 #c1{
 	background-color:orange;
 	font-size:25px;
-	position:relative;
-	top:25px;
 }
 
 #c2{
