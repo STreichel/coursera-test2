@@ -3,12 +3,11 @@
 h1 {
 	text-align: center;
 	color:red;
-	font-size:50px;
+	font-size:175%;
 	
 }
 
 .card {
-	font-size:25px;
 	width:440px;
 	box-sizing:border-box;
 	height:200px;
@@ -19,7 +18,7 @@ h1 {
 }
 
 .card-header {
-	font-size:35px;
+	font-size:125%;
 	float:right;
 	border:3px solid black;
 	padding-left:20px;
@@ -27,7 +26,6 @@ h1 {
 }
 
 .card-content {
-	font-size:25px;
 	margin-top:50px;
 }
 
